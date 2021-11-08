@@ -1,5 +1,5 @@
 
-a {
+a { color: #212121;
     text-decoration: none ;
 }
 a:hover {color: azure}
@@ -226,4 +226,37 @@ li {list-style-type: none;}
 }
 .shadow-1 {
     box-shadow: 10px 10px 15px 10px #757575;
+}
+.footer {
+    position: absolute;
+    background-color:#757575;
+    top: 900px;
+    left: 0px;
+    width: 1600px;
+    height: 200px;
+
+}
+.footer-email {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    left: 40px;
+    top: 120px;
+    font-family: raleway;
+}
+.footer-tel {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    left: 40px;
+    top: 80px;
+    font-family: raleway;
+}
+.footer-second {
+    position: absolute;
+    background-color:#757575;
+    top: 1500px;
+    left: 0px;
+    width: 1600px;
+    height: 200px;
 }
