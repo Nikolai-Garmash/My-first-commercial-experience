@@ -1,0 +1,204 @@
+
+a {
+    text-decoration: none ;
+}
+a:hover {color: azure}
+
+li {list-style-type: none;}
+
+.header {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 100px;
+    background-color: #757575;
+}
+
+
+.logo {
+    position: absolute;
+    left: 40px;
+    top: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    color: #212121;
+    
+}
+.logo-album {
+    color: rgb(55, 55, 133);
+}
+
+.nav-panel {
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    width: 400px;
+    height: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    color: #212121;
+    list-style-type: none;
+}
+
+.egypt-2019 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.egypt-2020 {
+    position: absolute;
+    left: 100px;
+    top: 0px;
+
+}
+.montenegro-2020 {
+    position: absolute;
+    left: 202px;
+    top: 0px;
+}
+.turkey-2021 {
+    position: absolute;
+    left: 340px;
+    top: 0px;
+}
+.ukr-panel {
+    position: absolute;
+    left: 900px;
+    top: 30px;
+    width: 210px;
+    height: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    color: #212121;
+    list-style-type: none;
+}
+.galitsinovka {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.karpaty {
+    position: absolute;
+    left: 150px;
+    top: 0px;
+}
+
+.main {
+    position: absolute;
+    left: 350px;
+    top: 0px;
+}
+
+
+
+.photo-section {
+    position: absolute;
+    width: 1400px;
+    height: 800px;
+    left: 100px;
+    top: 100px;
+}
+
+.title-photo {
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 600px;
+    top: 20px;
+    font-family: raleway;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    color: #212121;
+}
+
+.photo-first-section {
+    position: absolute;
+    width: 1200px;
+    height: 520px;
+    left: 100px;
+    top: 100px;
+    list-style-type: none;
+    padding: 0 0 0 0;
+}
+.photo-first-section-mne {
+    position: absolute;
+    width: 300px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+}
+
+.photo-first-section-egy {
+    position: absolute;
+    width: 300px;
+    height: 520px;
+    left: 450px;
+    top: 0px;
+}
+
+.photo-first-section-tur {
+    position: absolute;
+    width: 300px;
+    height: 520px;
+    left: 900px;
+    top: 0px;
+}
+
+.tara {
+    position: absolute;
+    top: 100px;
+    width: 1600px;
+    height: 2400px;
+    background-color: aquamarine;
+}
+.sect-pics {
+    position: absolute;
+    top: 100px;
+    width: 1600px;
+    height: 1100px;
+    background-color: aquamarine
+}
+.mne-1 {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    width: 300px;
+    height: 560px;
+}
+.mne-2 {
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    width: 300px;
+    height: 560px;
+}
+.mne-3 {
+    position: absolute;
+    top: 100px;
+    left: 1150px;
+    width: 300px;
+    height: 560px;
+}
+
+.mne-title {
+    position: absolute;
+    top: 430px;
+    left: 0px;
+    text-align: center;
+    font-family: raleway;
+}
+.mne-text {
+    position: absolute;
+    top: 480px;
+    left: 0px;
+    text-align: center;
+    font-family: raleway;
+}
