@@ -163,7 +163,7 @@ li {list-style-type: none;}
     position: absolute;
     top: 100px;
     width: 1600px;
-    height: 1100px;
+    height: 1500px;
     background-color: aquamarine
 }
 .mne-1 {
@@ -187,6 +187,20 @@ li {list-style-type: none;}
     width: 300px;
     height: 560px;
 }
+.mne-4 {
+    position: absolute;
+    top: 750px;
+    left: 330px;
+    width: 300px;
+    height: 560px;
+}
+.mne-5 {
+    position: absolute;
+    top: 750px;
+    left: 970px;
+    width: 300px;
+    height: 560px;
+}
 
 .mne-title {
     position: absolute;
@@ -201,6 +215,7 @@ li {list-style-type: none;}
     left: 0px;
     text-align: center;
     font-family: raleway;
+    color:#757575;
 }
 .shadow-1 {
     box-shadow: 10px 10px 15px 10px #757575;
