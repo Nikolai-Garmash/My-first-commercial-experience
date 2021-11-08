@@ -172,6 +172,7 @@ li {list-style-type: none;}
     left: 150px;
     width: 300px;
     height: 560px;
+    display: block;
 }
 .mne-2 {
     position: absolute;
@@ -179,6 +180,7 @@ li {list-style-type: none;}
     left: 650px;
     width: 300px;
     height: 560px;
+    display: block;
 }
 .mne-3 {
     position: absolute;
@@ -186,6 +188,7 @@ li {list-style-type: none;}
     left: 1150px;
     width: 300px;
     height: 560px;
+    display: block;
 }
 
 .mne-title {
